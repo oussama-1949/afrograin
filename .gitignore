@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# env files
+.env
+backend/.env
+frontend/.env
+
+# builds
+dist/
+build/
+.next/
+out/
+
+# logs
+*.log
+
+# cache
+.cache/
+.vite/
+
+# system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
